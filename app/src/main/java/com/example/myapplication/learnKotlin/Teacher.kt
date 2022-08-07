@@ -34,4 +34,5 @@ fun main(){
     println(ApplicationConfig.doSomeThing()) // loading doSomeThing
 //    ApplicationConfig 是类名 也是实例
 }
-// 伴生对象
+// 伴生对象 主要用于对于数据的初始化
+
